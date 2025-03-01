@@ -42,11 +42,11 @@ python test.py --model swin
 ```
 
 ## 📜 Results
-| Model                  | Accuracy |
-|------------------------|----------|
-| ViT (Feed Forward)     | 94.3%    |
-| ViT (CNN Patch Extractor) | 96.2% |
-| Swin Transformer       | 98.5%    |
+| Model                      | Traning Accuracy | Training Loss | Validation Accuracy | Validation Loss |
+|----------------------------|------------------|---------------|---------------------|-----------------|
+| ViT (Feed Forward)         | 78.95%           | 0.4638        | 81.89%              | 0.4351          |
+| ViT (CNN Patch Extractor)  | 88.05%           | 0.430         | 81.86%              | 0.4893          |
+| Swin Transformer           | 98.35%           | 0.0458        | 86.89%              | 0.3443          |
 
 ## 📌 Future Work
 - Implement **Autoencoder-based Feature Extraction**.
