@@ -46,5 +46,5 @@ Provided on request.
 
 ##  Future Work
 - Implement **Feed Forward Autoencoder-based Feature Extraction**.
-- Optimize **Convution Autoencoder-based Feature Extraction**.
+- Implement  **Convlution Autoencoder-based Feature Extraction**.
 
